@@ -1,0 +1,16 @@
+{
+	"name": "cover-template",
+	"version": "1.0.0",
+	"repository": "github:H4M5TER/cover-template",
+	"author": "H4M5TER <zhuxx2003@163.com> (https://github.com/h4m5ter/)",
+	"license": "MIT",
+	"private": true,
+	"dependencies": {
+		"dom-to-image": "^2.6.0",
+		"file-saver": "^2.0.2"
+	},
+	"devDependencies": {
+		"webpack": "^4.41.6",
+		"webpack-cli": "^3.3.11"
+	}
+}
